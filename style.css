@@ -1,0 +1,133 @@
+html{
+ background-color:hsl(60, 100%, 85%);
+}
+
+ul{
+  list-style-type:none;
+  text-align:center;
+  background-color:hsl(40, 100%, 65%);
+  overflow:hidden;
+  height:80px;
+  width:100%;
+  padding-left:1px;
+}
+
+li{
+  display:inline-block;
+  max-height:10px;
+  width:auto;
+  margin:.5px;
+  padding:10px;
+  text-align:center;
+  float:right;
+  font-family: 'Oswald', sans-serif;
+  font-size:18px;
+  overflow:hidden;
+}
+nav{
+  height:20px;
+  oveflow:hidden;
+}
+h1{
+  position:relative;
+  top:65px;
+  left:23px;
+  right:23px;
+  bottom:1px;
+  text-align:center;
+  padding:150px;
+  font-family: 'Merriweather', serif;
+  font-size:60px;
+  float:left;
+ 
+  color: #ffb78c;
+}
+
+.info{
+  text-align:center;
+  position:relative;
+  top:107px;
+  font-family: 'Anton', sans-serif;
+  font-size:20px;
+  height:100px;
+  overflow:hidden;
+  background:hsl(60, 100%, 70%);
+  border-radius: 25px;
+  border-style:solid;
+  
+}
+.contact{
+   text-align:center;
+  position:relative;
+  top:107px;
+  font-size:20px;
+  font-family: 'Anton', sans-serif;
+  height:175px;
+  overflow:hidden;
+  background:hsl(60, 100%, 70%);
+  border-radius: 25px;
+  border-style:solid;
+}
+.about{
+  text-align:center;
+  position:relative;
+  top:107px;
+  font-size:20px;
+  font-family: 'Anton', sans-serif;
+  height:100px;
+  overflow:hidden;
+  background:hsl(60, 100%, 70%);
+  border-radius: 25px;
+  border-style:solid;
+}
+
+table{
+  position:relative;
+  top:90px;
+}
+.gmap_canvas{
+  overflow:hidden;
+  background:none!important;
+  height:500px;
+  width:900px;
+  position:relative;
+  top:130px;
+}
+
+.hiring{
+  text-align:center;
+  position:relative;
+  top:107px;
+  font-size:20px;
+  font-family: 'Anton', sans-serif;
+  height:220px;
+  overflow:hidden;
+  background:hsl(60, 100%, 70%);
+  border-radius: 25px;
+  border-style:solid;
+}
+ .gallery{
+  text-align:center;
+  position:relative;
+  top:80px;
+  font-size:20px;
+  font-family: 'Anton', sans-serif;
+  height:50px;
+  overflow:hidden;
+  background:hsl(60, 100%, 70%);
+  border-radius: 25px;
+  border-style:solid;
+}
+
+.About_Rarc{
+  text-align:center;
+  position:relative;
+  top:80px;
+  font-size:20px;
+  font-family: 'Anton', sans-serif;
+  height:170px;
+  overflow:hidden;
+  background:hsl(60, 100%, 70%);
+  border-radius: 25px;
+  border-style:solid;
+}
